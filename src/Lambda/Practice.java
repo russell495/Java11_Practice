@@ -12,7 +12,7 @@ public class Practice {
         List<Person> people = getPeople();
 
 
-
+//22
 
         List<Person> females = people.stream()
                 .filter(person -> person.getGender().equals(Gender.FEMALE))
