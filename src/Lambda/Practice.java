@@ -11,7 +11,7 @@ public class Practice {
     public static void main(String[] args) {
         List<Person> people = getPeople();
 
-
+        System.out.println("ok");
 //22
 
         List<Person> females = people.stream()
